@@ -1,2 +1,4 @@
 github.com/boomlinde/dpi v0.0.0-20200629211109-6168240685c2 h1:MiZaaW7sC9MEse0IWivGFeYV044WQo+E//H9ulnAeQQ=
 github.com/boomlinde/dpi v0.0.0-20200629211109-6168240685c2/go.mod h1:7iv0tYTdDAyo/pvD8A233qLNWpAQPRaSEk+RaX+Byg4=
+github.com/boomlinde/gemini v0.0.0-20250304161203-9f6049b63c85 h1:s7jN8jMAT58oScRg36aDON0mBlYd7J7dXMO8rtGvlfU=
+github.com/boomlinde/gemini v0.0.0-20250304161203-9f6049b63c85/go.mod h1:XrpFqoKx1OuTVGgBlDZz5oZYjfw+ZP/w4om89biCUIo=
